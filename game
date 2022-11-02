@@ -30,7 +30,7 @@ int main(){
 return 0;
 }
 void board(){
-    printf(" %c | %c | %c \n",a[1],a[2],a[3]);
+    printf(" %c | %c | %c \n",a[1],a[2],a[3]); 
 	printf("___|___|____\n");
 	printf(" %c | %c | %c \n",a[4],a[5],a[6]);
 	printf("___|___|____\n");
